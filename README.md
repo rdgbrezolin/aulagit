@@ -8,7 +8,7 @@
 
 // faz o upload dos arquivos/atualiza:
 
-5) $ git add .
+5) $ git add . ou para um arquivo específico: git add arquivo
 6) $ git commit -m "mensagem"
 7) Pega a URL no GitHub
 8) $ git remote add origin "http://github....."
