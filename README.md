@@ -1,7 +1,13 @@
 1) Cria uma pasta (mkdir)
 2) Joga os arquivos nela
+
+// inicia:
+
 3) $ git init
 4) $ touch readme.md
+
+// faz o upload dos arquivos/atualiza:
+
 5) $ git add .
 6) $ git commit -m "mensagem"
 7) Pega a URL no GitHub
