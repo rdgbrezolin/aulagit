@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+#Sou Tryber e vou ter muito sucesso na programação!
+
 Eu sou Tryber e...
 
 read -p "Digite o primeiro numero:" n1
