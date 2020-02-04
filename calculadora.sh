@@ -1,5 +1,7 @@
 #!/bin/bash
 
+Eu sou Tryber e...
+
 read -p "Digite o primeiro numero:" n1
 read -p "Digite o segundo numero:" n2
 
