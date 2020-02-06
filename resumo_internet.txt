@@ -1,0 +1,21 @@
+Recapitulando:
+
+1- O que é a Internet ?
+
+    A Internet é uma rede mundial de computadores interconectados. Esses computadores se comunicam entre si através de um formato específico
+
+2- Qual a diferença entre uma página web, um servidor web e um navegador web ?
+
+    Uma página web é a página que você vê no navegador. Um servidor web é o computador que tem o código que diz como a página web deve ser. Um navegador é um programa  de computador que mostra as páginas web.
+
+3- No contexto da internet, o que é um cliente ? E um servidor ?
+
+    Cliente é um dispositivo que faz requisições de informação a algum servidor. Servidor é o computador que recebe as requisições do cliente, processa e responde com as devidas informações.
+
+4- O que é um servidor DNS ?
+
+    Servidor DNS é um tipo de servidor que traduz nomes de domínio para endereços IP, como se fossem a lista telefônica da internet.
+
+5- Quais os principais verbos do protocolo HTTP ?
+
+    Os principais verbos HTTP são: GET, PUT, PATCH, POST e DELETE.
