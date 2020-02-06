@@ -1,0 +1,30 @@
+Exercício 2:
+
+Use a linha de comando do seu terminal para fazer as seguintes requisições ao endereço "https://httpbin.org/anything" e grave o comando dado e as respectivas saídas:
+
+
+
+1) GET passando como parâmetro o seu primeiro nome (firstname);
+
+    $ curl -X GET -d 'Rodrigo' https://httpbin.org/anything
+
+
+2) POST passando como parâmetro o seu último nome (lastname);
+
+    $ curl -X POST -d 'Brezolin' https://httpbin.org/anything
+
+
+3) PUT passando como parâmetro o seu primeiro e último nomes (firstname e lastname);
+
+    $ curl -X PUT -d 'Brezolin' https://httpbin.org/anything
+
+
+4) DELETE;
+
+    $ curl -X DELETE https://httpbin.org/anything
+
+
+5) POST passando o JSON: {"escola": "Trybe"}.
+
+    $ curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X POST -d '{"escola": "Trybe"}' https://httpbin.org/anything
+
